@@ -1,0 +1,15 @@
+.myUL {
+    list-style: none;
+}
+
+span {
+    margin-left: 10px
+}
+
+.span2 {
+    background-color: yellow;
+}
+
+.span3 {
+    background-color: red;
+}
